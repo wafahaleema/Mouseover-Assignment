@@ -1,0 +1,26 @@
+ body{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7rChdQeX37OqUaKKS0nw-Qbm0LFWBFw6nQ&s);
+}
+#para{
+    text-transform: uppercase;
+    font-weight: 1000;
+    text-align: center;
+}
+#img{
+    margin-left: 400px;
+    border-color: black;
+    border-style:dashed;   
+} 
+h1{
+    text-align: center;
+    color: deeppink;
+    /* background-color: rgb(231, 143, 168); */
+ }
+h2{
+    text-align: center;
+    color: rgb(228, 31, 221);
+}
+h3{
+    text-align: center;
+    color:crimson
+} 
